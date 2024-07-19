@@ -1,6 +1,10 @@
 .Rproj.user
 .Rhistory
+<<<<<<< HEAD
 .RData 
+=======
+.RData
+>>>>>>> a2178cd94a65b2fb23d0aaf509852a3721d1a8c5
 .Ruserdata
 *Rproj
 /_site

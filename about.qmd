@@ -2,4 +2,8 @@
 title: "About"
 ---
 
+<<<<<<< HEAD
 About this site Toros-Manuk 
+=======
+About this site Toros-Manuk
+>>>>>>> a2178cd94a65b2fb23d0aaf509852a3721d1a8c5
