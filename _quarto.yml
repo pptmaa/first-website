@@ -4,7 +4,7 @@ project:
 website:
   title: "A New Website, second edition"
   navbar:
-    left:
+    left: 
       - href: index.qmd
         text: Home
       - about.qmd
