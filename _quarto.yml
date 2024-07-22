@@ -4,11 +4,7 @@ project:
 website:
   title: "A New Website, second edition"
   navbar:
-<<<<<<< HEAD
-    left: 
-=======
     left:
->>>>>>> a2178cd94a65b2fb23d0aaf509852a3721d1a8c5
       - href: index.qmd
         text: Home
       - about.qmd
@@ -18,6 +14,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
