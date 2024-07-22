@@ -1,6 +1,8 @@
 ---
 title: "About"
 ---
+## About Me
 
-About this site Toros-Manuk 
-
+My name is **Toros-Manuk Petrychenko**, and I'm study in *UPML*.
+<br>
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
